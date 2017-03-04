@@ -1,0 +1,3 @@
+Environment: HTML5, CSS and Javascript
+Entry point: index.html
+Project: A web site that lets users sign up for the ficticious SDSU Marathon. The ficticious marathon thatd will start at the SDSU Library and it should have a sign up Registration page.

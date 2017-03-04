@@ -1,0 +1,29 @@
+fieldset {
+    width: 880px;
+    margin: 0 auto 0 auto;
+	background-color: #FFDAB9;
+	padding: 25px;
+    }
+legend{
+	color:#FFDAB9;
+	background-color:#FF0000;
+	border: 1px dotted #FF0000;
+	}
+#personalTable td,#otherTable td, #paymentTable td { 
+    padding: 6px;
+    }   
+#button_panel {
+    text-align: center;
+    }
+#message_line{
+	text-align: center;
+	font-weight: bold;
+	}	
+.button {
+    background-color: #FF0000;
+    padding: 5px 10px 5px 10px;
+    font-size: 90%;
+	color: #FFDAB9;
+    border: 2px solid #FFDAB9;
+    border-radius: 5px;
+    }
